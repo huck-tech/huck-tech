@@ -4,7 +4,9 @@
 <h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
 <br>
 <p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript/Typescript and have professional experience working with React, Node, Python/Flask/Django along with MongoDB and PostgreSQL.
-I am deeply interested in AI, machine learning, augmented reality, and inclusion. Accessibility and responsiveness are my priority when creating and implementing web applications.</p>
+I am deeply interested in AI, machine learning, augmented reality, and inclusion. Accessibility and responsiveness are my priority when creating and implementing web applications.
+Passionate and persistent problem solver who loves picking up new things and tools.
+Employ positivity first mindset & hold strong interpersonal skills making collaborating a breeze.</p>
 
 
 <!-- **huck-tech/huck-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
