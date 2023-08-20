@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik Huckvale</h1>
-
+<h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
 ![visitors](https://vbr.wocr.tk/badge?page_id=huck-tech.huck-tech&color=00cf00)
 
 **huck-tech/huck-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
