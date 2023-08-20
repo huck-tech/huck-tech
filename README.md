@@ -4,8 +4,8 @@
 <h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
 <br>
 <p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript/Typescript and possess professional experience with front-end frameworks such as React, Next.js, and Gatsby.js. Additionally, I am proficient in back-end frameworks including Node.js, Express, Flask, and Django, along with database technologies like MongoDB and PostgreSQL.
-<br>
-<br>
+</p>
+<p>
 My enthusiasm extends to AI, machine learning, and augmented reality, as well as promoting inclusion. I prioritize accessibility and responsiveness when designing and implementing web applications. As a passionate and persistent problem solver, I thrive on learning new tools and technologies.
 
 My approach is rooted in a positivity-first mindset, and my strong interpersonal skills facilitate seamless collaboration.</p>
