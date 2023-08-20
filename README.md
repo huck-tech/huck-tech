@@ -3,10 +3,12 @@
 <h1 align="center">Hi 👋, I'm Erik Huckvale</h1>
 <h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
 <br>
-<p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript/Typescript and have professional experience working with React, Node, Python/Flask/Django along with MongoDB and PostgreSQL.
-I am deeply interested in AI, machine learning, augmented reality, and inclusion. Accessibility and responsiveness are my priority when creating and implementing web applications.
-Passionate and persistent problem solver who loves picking up new things and tools.
-Employ positivity first mindset & hold strong interpersonal skills making collaborating a breeze.</p>
+<p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript/Typescript and possess professional experience with front-end frameworks such as React, Next.js, and Gatsby.js. Additionally, I am proficient in back-end frameworks including Node.js, Express, Flask, and Django, along with database technologies like MongoDB and PostgreSQL.
+<br>
+<br>
+My enthusiasm extends to AI, machine learning, and augmented reality, as well as promoting inclusion. I prioritize accessibility and responsiveness when designing and implementing web applications. As a passionate and persistent problem solver, I thrive on learning new tools and technologies.
+
+My approach is rooted in a positivity-first mindset, and my strong interpersonal skills facilitate seamless collaboration.</p>
 
 
 <!-- **huck-tech/huck-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
