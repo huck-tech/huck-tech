@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Erik Huckvale</h1>
 <h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
 <br>
-<p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React, Node, Express, and MongoDB.
+<p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript/Typescript and have professional experience working with React, Node, Python/Flask/Django along with MongoDB and PostgreSQL.
 I am deeply interested in AI, machine learning, augmented reality, and inclusion. Accessibility and responsiveness are my priority when creating and implementing web applications.</p>
 
 
