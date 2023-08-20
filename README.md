@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Erik Huckvale</h1>
 <h3 align="center">A creative and detail-oriented software engineer with a deep interest in AI.</h3>
+<br>
+<p align="left">I am a Full-Stack Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React, Node, Express, and MongoDB.
+I am deeply interested in AI, machine learning, augmented reality, and inclusion. Accessibility and responsiveness are my priority when creating and implementing web applications.</p>
 
 
 <!-- **huck-tech/huck-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
