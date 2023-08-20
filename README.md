@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Erik Huckvale</h1>
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=huck-tech.huck-tech&color=00cf00)
 
